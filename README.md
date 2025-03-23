@@ -27,4 +27,4 @@ Currently diving deep into **Generative AI** 🚀! Exploring:
 ![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-%23FF5733.svg?style=for-the-badge)
 
 ## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/deepakdodeja/](https://www.linkedin.com/in/deepakdodeja/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/deepakdodeja/)
